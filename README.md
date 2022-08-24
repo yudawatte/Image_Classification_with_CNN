@@ -18,3 +18,7 @@ Enhanced 3 VGG block models with the use of regularization with Dropout layers p
 
 6. cats_and_dogs_with_keras_application_vgg16
 Used Keras applicatin VGG_16 pretrained model
+
+
+Reference:
+https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
