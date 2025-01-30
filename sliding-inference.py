@@ -328,4 +328,3 @@ spark.sql(f"DROP TABLE IF EXISTS {params['SLIDING_RESULTS_TABLE']}")
 
 dbutils.jobs.taskValues.set(key= 'SLIDE_STEP', value = params['SLIDE_STEP'])
 dbutils.jobs.taskValues.set(key= 'SLIDING_RESULTS_TABLE', value = params['SLIDING_RESULTS_TABLE'])
-Update version 2
